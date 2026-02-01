@@ -6,7 +6,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/Vitzeno/test-ls/handlers"
+	"github.com/vitzeno/test-ls/handlers"
 	"github.com/sourcegraph/jsonrpc2"
 )
 

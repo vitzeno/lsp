@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Vitzeno/test-ls/llm"
+	"github.com/vitzeno/test-ls/llm"
 	"github.com/sourcegraph/jsonrpc2"
 )
 

@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Vitzeno/test-ls/llm"
-	"github.com/Vitzeno/test-ls/types"
+	"github.com/vitzeno/test-ls/llm"
+	"github.com/vitzeno/test-ls/types"
 	"github.com/vitzeno/llvm-test/parser"
 )
 

@@ -8,8 +8,8 @@ import (
 	"os/user"
 	"path/filepath"
 
-	"github.com/Vitzeno/test-ls/handlers"
-	"github.com/Vitzeno/test-ls/server"
+	"github.com/vitzeno/test-ls/handlers"
+	"github.com/vitzeno/test-ls/server"
 )
 
 func main() {
