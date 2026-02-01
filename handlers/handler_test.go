@@ -5,7 +5,7 @@ import (
 	"net"
 	"testing"
 
-	"github.com/Vitzeno/test-ls/types"
+	"github.com/vitzeno/test-ls/types"
 	"github.com/sourcegraph/jsonrpc2"
 	"github.com/stretchr/testify/require"
 )

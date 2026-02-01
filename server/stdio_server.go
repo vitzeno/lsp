@@ -3,8 +3,8 @@ package server
 import (
 	"context"
 
-	"github.com/Vitzeno/test-ls/handlers"
-	"github.com/Vitzeno/test-ls/types"
+	"github.com/vitzeno/test-ls/handlers"
+	"github.com/vitzeno/test-ls/types"
 	"github.com/sourcegraph/jsonrpc2"
 )
 

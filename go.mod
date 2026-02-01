@@ -1,4 +1,4 @@
-module github.com/Vitzeno/test-ls
+module github.com/vitzeno/test-ls
 
 go 1.19
 

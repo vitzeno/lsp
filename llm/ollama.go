@@ -8,7 +8,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Vitzeno/test-ls/types"
+	"github.com/vitzeno/test-ls/types"
 )
 
 const (
